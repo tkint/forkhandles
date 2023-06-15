@@ -17,6 +17,7 @@ fun String.includeModule(dir: String) {
 
 include("forkhandles-bom")
 
+include("actions4k")
 include("bunting4k")
 include("fabrikate4k")
 include("parser4k")

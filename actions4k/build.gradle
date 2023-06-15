@@ -1,0 +1,5 @@
+description = 'ForkHandles Transactions library'
+
+dependencies {
+    implementation(project(":result4k"))
+}
